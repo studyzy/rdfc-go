@@ -1,0 +1,15 @@
+# Binaries
+/bin/
+/cmd/rdfc-go/rdfc-go
+
+# Test and coverage artifacts
+coverage.out
+coverage.html
+
+# IDE
+/.idea/
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
